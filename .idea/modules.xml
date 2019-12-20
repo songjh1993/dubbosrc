@@ -104,6 +104,7 @@
       <module fileurl="file://$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protobuf-json/dubbo-serialization-protobuf-json.iml" filepath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protobuf-json/dubbo-serialization-protobuf-json.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protostuff/dubbo-serialization-protostuff.iml" filepath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protostuff/dubbo-serialization-protostuff.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-test/dubbo-serialization-test.iml" filepath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-test/dubbo-serialization-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-dubbo/testdubbo.iml" filepath="$PROJECT_DIR$/test-dubbo/testdubbo.iml" />
     </modules>
   </component>
 </project>
