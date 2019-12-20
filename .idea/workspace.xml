@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="477ca58c-58ed-4ce8-8269-56f7feca4971" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-metadata-report/dubbo-metadata-report-etcd/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-common/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-container/dubbo-container-log4j/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-apollo/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-test/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-dependencies/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-config/dubbo-config-spring/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-metadata-report/dubbo-metadata-report-consul/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-nacos/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-kryo/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-interface/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-configcenter/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-consul/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-thrift/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-compatible/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-metadata-report/dubbo-metadata-report-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-metadata-report/dubbo-metadata-definition-protobuf/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-mina/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-config/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-fst/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-container/dubbo-container-spring/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-metadata-report/dubbo-metadata-report-nacos/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-dependencies/dubbo-dependencies-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-hessian2/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-avro/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-filter/dubbo-filter-cache/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-p2p/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-metadata-report/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-native-hession/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-filter/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml-provider/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-metadata-report/dubbo-metadata-report-redis/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-etcd3/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rest/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api-provider/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rmi/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-provider/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-container/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-gson/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-plugin/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-container/dubbo-container-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-default/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-grizzly/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-distribution/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty4/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-etcd/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-plugin/dubbo-qos/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-xml/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-http/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-all/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-injvm/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-sofa/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-config/dubbo-config-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-http/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-nacos/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-dependencies-bom/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-bom/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protostuff/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-redis/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-filter/dubbo-filter-validation/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-hessian/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protobuf-json/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-multicast/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-memcached/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-jdk/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-http-invoker/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-fastjson/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-xml/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-default/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-container/dubbo-container-logback/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-redis/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-metadata-report/dubbo-metadata-report-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-cluster/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-native-thrift/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-metadata-report/dubbo-metadata-definition/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-etcd3/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-multiple/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-registry/dubbo-registry-consul/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-dubbo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dubbo-config/dubbo-config-api/src/main/java/org/apache/dubbo/config/builders/ConsumerBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Library/maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="1391" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dubbo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-dubbo-2.7.4.1-src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="477ca58c-58ed-4ce8-8269-56f7feca4971" name="Default Changelist" comment="" />
+      <created>1576810680550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576810680550</updated>
+      <workItem from="1576810682626" duration="1672000" />
+      <workItem from="1576812966447" duration="111000" />
+      <workItem from="1576813470755" duration="646000" />
+      <workItem from="1576821084898" duration="1278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3707000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32928064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32928064" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32960597" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dubbo-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="130" column="13" lean-forward="true" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-all/dubbo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-config/dubbo-config-api/src/main/java/org/apache/dubbo/config/builders/ConsumerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
