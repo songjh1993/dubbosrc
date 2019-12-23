@@ -7,7 +7,7 @@
     					http://www.springframework.org/schema/beans/spring-beans.xsd 
     					http://code.alibabatech.com/schema/dubbo 
     					http://souche.oss-cn-hangzhou.aliyuncs.com/files/dubbo/dubbo.xsd">
-    
+
     <dubbo:application name="${systemInfo.appName}"  />
     <dubbo:registry address="${dubbo.registry}" />
     <dubbo:provider export="${dubbo.export}" token="${dubbo.token}"/>
