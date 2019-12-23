@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.1.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.1.xsd">
+    <!-- 该文件名字命名固定，是web.xml中的servletname中设置的名字-servlet的形式 -->
+    <!-- 配置springmvc的请求映射-->
+    <!-- 由于springmvc的配置一般由注解来完成， -->
+    <!-- 激活扫描注解标签 告诉它要扫描注解的包名 -->
+    <!-- 这个是激活@controller这个注解的 -->
+    <context:component-scan base-package="com.song"></context:component-scan>
+    <!-- 这个是激活里面的方法@RequestMapping这个注解的 -->
+    <mvc:annotation-driven></mvc:annotation-driven>
+
+    <!-- 静态资源过滤器 ,这句话的作用是，解决由于springmvc过滤了所有文件当页面中需要引用图片css样式，js文件等就会异常-->
+    <mvc:default-servlet-handler/>
+
+    <!-- 配置视图解析器,用来实现controller的一个跳转用的，就是价格前缀后缀，跳转的时候java里面只需要写名字就可以了 -->
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <!-- 给所有跳转的文件名统一配置前缀 -->
+        <!-- 将文件放到web-inf下面也可以在这里配置成/WEB-INF/ -->
+        <property name="prefix" value="/WEB-INF/page/"></property>
+        <!-- 统一配置后缀 -->
+        <property name="suffix" value=".html"></property>
+    </bean>
+</beans>
